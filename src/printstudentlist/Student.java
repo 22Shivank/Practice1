@@ -7,6 +7,7 @@ package printstudentlist;
 /** model class - raw data of entity
  * mvc design - view , controller
  *HEY THERE CHANGE HAS BEEN MADE.
+ *Hey there change 2 has been made
  * @author srinivsi
  */
 public class Student
